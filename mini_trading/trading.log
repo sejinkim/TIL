@@ -1,0 +1,4 @@
+2026-04-02 17:21:26,564 DEBUG trading.main - 디버그: 상세 실행 정보
+2026-04-02 17:21:26,565 INFO trading.main - 정보: 서버 시작됨
+2026-04-02 17:21:26,565 WARNING trading.main - 경고: 잔고 부족
+2026-04-02 17:21:26,565 ERROR trading.main - 오류: 주문 실패
